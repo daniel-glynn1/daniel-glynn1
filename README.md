@@ -1,4 +1,4 @@
-Hi, I’m Daniel Glynn. I'm a student at Colorado School of Mines pursuing a degree in Computer science with a focus area in Data Science.
+Hi, I’m Daniel Glynn. I'm a computer scientist and software engineer who graduated from Colorado School of Mines with a bachelors and masters in Computer Science with a focus area in Data Science.
 
 Reach me at daniel.dg.glynn@gmail.com
 
